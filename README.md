@@ -26,23 +26,23 @@ With 14+ years of experience, I specialize in **React**, **TypeScript**, and **p
 
 <!-- Built with 💙 using GPRM: https://gprm.itsvg.in -->
 
-
+> *+ More on my GitHub profile below*
 
 ---
 
 ## 🚀 Featured Projects (Updated)
 > ✅ *Pinned repositories reflect the most recent projects – always up to date!*
 
-- 🔹 [Manzoom.ir – Entertainment DB UI revamp](https://github.com/yourusername/manzoom)  
+- 🔹 [Manzoom.ir – Entertainment DB UI revamp](manzoom.هق)  
   Migrated legacy jQuery UI to a modern React SPA with better UX and SEO.
 
-- 🔹 [Smart Barcode Scanner App](https://github.com/yourusername/barcode-scanner)  
+- 🔹 [Smart Barcode Scanner App](https://github.com/yourusername)  
   React Native + native modules for cross-platform product tracking.
 
-- 🔹 [Banking Middleware Platform](https://github.com/yourusername/banking-middleware)  
+- 🔹 [Banking Middleware Platform](https://github.com/danyallya)  
   Secure transaction routing between banks and fintech apps.
 
-- 🔹 [University Admin System](https://github.com/yourusername/university-admin-panel)  
+- 🔹 [University Admin System](https://github.com/danyallya)  
   High-performance SPA with custom RBAC, charts, and real-time updates.
 
 ---
@@ -141,4 +141,4 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-> *+ More on my GitHub profile below*
+
