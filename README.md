@@ -6,6 +6,11 @@ From early freelance projects to leading teams in enterprise-grade apps, my jour
 
 With 14+ years of experience, I specialize in **React**, **TypeScript**, and **performance-driven UIs**, with a passion for clean code, mentoring, and delivering real value to users.
 
+# Contact Information
+
+Phone: +98 935 162 96 70
+
+Email: danyal.yasheikh@gmail.com
 
 
 ---
