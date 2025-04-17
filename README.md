@@ -89,8 +89,8 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
 
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)  
-[CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)  
-[JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
