@@ -111,57 +111,87 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danyal_y_s)  
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DanyalYasheikh)
 
----
-## 🧰 Tech Stack
+---<div align="center">
+  <h1 style="color: #fff; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">🧰 Tech Stack</h1>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(135deg, #1e1e2f, #2a2a40); border-radius: 15px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);">
+    <!-- Languages & Frameworks -->
+    <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Languages & Frameworks</h3>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
+    <!-- Frontend -->
+  <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Frontend</h3>
+      <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/react_native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white" alt="SASS" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### Frontend
-![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/react_native-61DAFB?style=flat&logo=react&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)  
-![Next.js](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+    <!-- Backend -->
+  <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Backend</h3>
+      <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/apache-D42029?style=flat&logo=apache&logoColor=white" alt="Apache" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)  
-![Nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)  
-![Apache](https://img.shields.io/badge/apache-D42029?style=flat&logo=apache&logoColor=white)  
+    <!-- Databases -->
+  <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Databases</h3>
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/sqlite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-07405E?style=flat&logo=sqlite&logoColor=white)  
+    <!-- DevOps & Tools -->
+   <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">DevOps & Tools</h3>
+      <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)  
+    <!-- Design & Prototyping -->
+  <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Design & Prototyping</h3>
+      <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/adobe_xd-470137?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### Design & Prototyping
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![Adobe XD](https://img.shields.io/badge/adobe_xd-470137?style=flat&logo=adobe-xd&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)  
+    <!-- APIs & Testing -->
+   <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">APIs & Testing</h3>
+      <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white" alt="Swagger" style="margin: 5px; transition: transform 0.3s;">
+    </div>
 
-### APIs & Testing
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white)  
+    <!-- Analytics & Reporting -->
+  <div style="text-align: center;">
+      <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Analytics & Reporting</h3>
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/chart.js-F5788D?style=flat&logo=chart.js&logoColor=white" alt="Chart.js" style="margin: 5px; transition: transform 0.3s;">
+    </div>
+  </div>
+</div>
 
-### Analytics & Reporting
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=flat&logo=chart.js&logoColor=white)  
----
-
+<style>
+  img:hover {
+    transform: scale(1.1);
+  }
+</style>
 <!--
 ## 🚀 Top Projects:
 
