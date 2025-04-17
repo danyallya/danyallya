@@ -38,16 +38,19 @@ Email: danyal.yasheikh@gmail.com
 ## 🚀 Featured Projects (Updated)
 > ✅ *Pinned repositories reflect the most recent projects – always up to date!*
 
-- 🔹 [Manzoom.ir – Entertainment DB UI revamp](manzoom.هق)  
+- 🔹 [Manzoom.ir – Entertainment DB UI revamp](manzoom.ir)  
   Migrated legacy jQuery UI to a modern React SPA with better UX and SEO.
 
-- 🔹 [Smart Barcode Scanner App](https://github.com/yourusername)  
+- 🔹 [Smart Barcode Scanner App  Private](https://github.com/BarezPakhshCameraScan)  
   React Native + native modules for cross-platform product tracking.
 
-- 🔹 [Banking Middleware Platform](https://github.com/danyallya)  
+- 🔹 [Banking Middleware Platform Private](https://github.com/danyallya/BarezPakhshPosMellat)  
   Secure transaction routing between banks and fintech apps.
 
-- 🔹 [University Admin System](https://github.com/danyallya)  
+- 🔹 [University Admin System Private](https://github.com/danyallya/p4rt-master)  
+  High-performance SPA with custom RBAC, charts, and real-time updates.
+  
+- 🔹 [University Admin System for Moblile device Private](https://github.com/danyallya/p4rt-mobile)  
   High-performance SPA with custom RBAC, charts, and real-time updates.
 
 ---
