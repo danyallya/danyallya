@@ -106,15 +106,70 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danyal-yasheikh-akbari-297085b1)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danyal_y_s)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DanyalYasheikh)
+<div align="center">
+  <h1 style="color: #fff; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">🌐 Connect with Me</h1>
+  <div style="display: flex; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(135deg, #1e1e2f, #2a2a40); border-radius: 15px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);">
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/danyal-yasheikh-akbari-297085b1" target="_blank" style="text-decoration: none;">
+      <div class="social-box" style="background-color: #0077B5; color: white; transition: transform 0.3s, box-shadow 0.3s;">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 30px; height: 30px; margin-bottom: 5px;">
+        <span>LinkedIn</span>
+      </div>
+    </a>
+
+    <!-- Instagram -->
+   <a href="https://instagram.com/danyal_y_s" target="_blank" style="text-decoration: none;">
+      <div class="social-box" style="background-color: #E4405F; color: white; transition: transform 0.3s, box-shadow 0.3s;">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 30px; height: 30px; margin-bottom: 5px;">
+        <span>Instagram</span>
+      </div>
+    </a>
+
+    <!-- X (Twitter) -->
+   <a href="https://x.com/DanyalYasheikh" target="_blank" style="text-decoration: none;">
+      <div class="social-box" style="background-color: #000000; color: white; transition: transform 0.3s, box-shadow 0.3s;">
+        <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" style="width: 30px; height: 30px; margin-bottom: 5px;">
+        <span>X</span>
+      </div>
+    </a>
+  </div>
+</div>
+
+<style>
+  .social-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .social-box:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+  }
+
+  .social-box span {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 5px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  a:focus .social-box {
+    outline: 2px solid #FFD700;
+    outline-offset: 2px;
+  }
+</style>
+
 
 ---<div align="center">
   <h1 style="color: #fff; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">🧰 Tech Stack</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(135deg, #1e1e2f, #2a2a40); border-radius: 15px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);">
-    <!-- Languages & Frameworks -->
     <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Languages & Frameworks</h3>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px; transition: transform 0.3s;">
@@ -125,7 +180,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
       <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px; transition: transform 0.3s;">
     </div>
 
-    <!-- Frontend -->
   <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Frontend</h3>
       <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="margin: 5px; transition: transform 0.3s;">
@@ -136,7 +190,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
       <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="margin: 5px; transition: transform 0.3s;">
     </div>
 
-    <!-- Backend -->
   <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Backend</h3>
       <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; transition: transform 0.3s;">
@@ -145,7 +198,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
       <img src="https://img.shields.io/badge/apache-D42029?style=flat&logo=apache&logoColor=white" alt="Apache" style="margin: 5px; transition: transform 0.3s;">
     </div>
 
-    <!-- Databases -->
   <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Databases</h3>
       <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="margin: 5px; transition: transform 0.3s;">
@@ -154,7 +206,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
       <img src="https://img.shields.io/badge/sqlite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 5px; transition: transform 0.3s;">
     </div>
 
-    <!-- DevOps & Tools -->
    <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">DevOps & Tools</h3>
       <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin: 5px; transition: transform 0.3s;">
@@ -162,7 +213,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
       <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin: 5px; transition: transform 0.3s;">
     </div>
 
-    <!-- Design & Prototyping -->
   <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Design & Prototyping</h3>
       <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="margin: 5px; transition: transform 0.3s;">
@@ -171,7 +221,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
       <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" style="margin: 5px; transition: transform 0.3s;">
     </div>
 
-    <!-- APIs & Testing -->
    <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">APIs & Testing</h3>
       <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="margin: 5px; transition: transform 0.3s;">
