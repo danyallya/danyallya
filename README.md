@@ -1,3 +1,25 @@
+
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #f9f9f9, #eaeaea); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)">
+  
+  <img src="(https://avatars.githubusercontent.com/u/154216275?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+
+  <h1 style="margin: 15px 0 5px; font-size: 24px; font-weight: bold; color: #333;">Danyal Yasheikh</h1>
+
+  <p style="margin: 0 0 15px; font-size: 16px; color: #555;">Senior Frontend Developer & Team Lead</p>
+
+  <p style="text-align: center; font-size: 14px; color: #777; line-height: 1.6; max-width: 600px;">
+      Crafting beautiful, performant web & mobile experiences since 2011. From early freelance projects to leading teams in enterprise-grade apps, my journey started with <strong>Manzoom.ir</strong>, Iran's IMDb-style platform, and evolved through co-founding ventures and building scalable SPAs, barcode scanners, and secure banking middleware.
+    </p>
+
+ 
+  <div style="margin-top: 20px; display: flex; gap: 15px;">
+      <a href="tel:+989351629670" style="text-decoration: none; color: #fff; background: #007BFF; padding: 10px 15px; border-radius: 5px; font-size: 14px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">📞 Phone</a>
+      <a href="mailto:danyal.yasheikh@gmail.com" style="text-decoration: none; color: #fff; background: #28A745; padding: 10px 15px; border-radius: 5px; font-size: 14px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">📧 Email</a>
+    </div>
+  </div>
+</div>
+
 # 💫 About Me
 🎯 **Senior Frontend Developer & Team Lead**  
 Crafting beautiful, performant web & mobile experiences since 2011.
