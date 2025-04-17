@@ -182,12 +182,6 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
   </div>
 </div>
 
-<style>
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 
 <!--
 ## 🚀 Top Projects:
