@@ -41,7 +41,7 @@ Email: danyal.yasheikh@gmail.com
 - 🔹 [Manzoom.ir – Entertainment DB UI revamp](manzoom.ir)  
   Migrated legacy jQuery UI to a modern React SPA with better UX and SEO.
 
-- 🔹 [Smart Barcode Scanner App  Private](https://github.com/BarezPakhshCameraScan)  
+- 🔹 [Smart Barcode Scanner App  Private](https://github.com/danyallya/BarezPakhshCameraScan)  
   React Native + native modules for cross-platform product tracking.
 
 - 🔹 [Banking Middleware Platform Private](https://github.com/danyallya/BarezPakhshPosMellat)  
