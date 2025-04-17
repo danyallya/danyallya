@@ -2,7 +2,7 @@
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #f9f9f9, #eaeaea); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)">
   
-  <img src="(https://avatars.githubusercontent.com/u/154216275?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <img src="https://avatars.githubusercontent.com/u/154216275?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 
   <h1 style="margin: 15px 0 5px; font-size: 24px; font-weight: bold; color: #333;">Danyal Yasheikh</h1>
 
@@ -14,11 +14,13 @@
 
  
   <div style="margin-top: 20px; display: flex; gap: 15px;">
-      <a href="tel:+989351629670" style="text-decoration: none; color: #fff; background: #007BFF; padding: 10px 15px; border-radius: 5px; font-size: 14px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">📞 Phone</a>
-      <a href="mailto:danyal.yasheikh@gmail.com" style="text-decoration: none; color: #fff; background: #28A745; padding: 10px 15px; border-radius: 5px; font-size: 14px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">📧 Email</a>
+      <a href="tel:+989351629670" style="text-decoration: none; color: #fff; background: #007BFF; padding: 10px 15px; border-radius: 5px; font-size: 14px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">📞 +98 935 162 96 70</a>
+      <a href="mailto:danyal.yasheikh@gmail.com" style="text-decoration: none; color: #fff; background: #28A745; padding: 10px 15px; border-radius: 5px; font-size: 14px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">📧 danyal.yasheikh@gmail.com</a>
     </div>
   </div>
 </div>
+
+<!--
 
 # 💫 About Me
 🎯 **Senior Frontend Developer & Team Lead**  
@@ -32,7 +34,7 @@ With 14+ years of experience, I specialize in **React**, **TypeScript**, and **p
 
 Phone: +98 935 162 96 70
 
-Email: danyal.yasheikh@gmail.com
+Email: danyal.yasheikh@gmail.com  --- -->
 
 
 ---
