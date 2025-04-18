@@ -187,6 +187,22 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
 </div>
 
 
+---
+
+[![alisharify's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danyallya7&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+<a href="https://github.com/danyallya">
+  <img  src="https://github-readme-stats.vercel.app/api?username=danyallya&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
+</a>
+
+<a href="https://github.com/danyallya">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyallya&hide=&langs_count=50&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
+</a>
+
+
+## Stay curious, keep building, and let’s make the internet a better place together! 🚀
 <!--
 ## 🚀 Top Projects:
 
