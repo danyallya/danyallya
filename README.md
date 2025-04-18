@@ -140,6 +140,7 @@ Docker, GitHub Actions, Jenkins, Nginx, Postman, Swagger
   <div style="text-align: center;">
       <h3 style="color: #FFD700; font-size: 18px; margin-bottom: 10px;">Backend</h3>
       <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" style="margin: 5px; transition: transform 0.3s;">
       <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="margin: 5px; transition: transform 0.3s;">
       <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" style="margin: 5px; transition: transform 0.3s;">
       <img src="https://img.shields.io/badge/apache-D42029?style=flat&logo=apache&logoColor=white" alt="Apache" style="margin: 5px; transition: transform 0.3s;">
